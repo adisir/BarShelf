@@ -1,4 +1,13 @@
 # BarShelf
+- Allows user to : 
+  - have virtual barshelf 
+  - Find cocktails 
+- See detailed recipes
+- Fully responsive for mobile, tablet and computer.
+- Utilizes Spring Framework and Java backend 
+- With a clean frontend 
+- Full CRUD functionality
+
 ## User Stories
 1.	As a	User	I want to	search for an ingredient	so that	I can find the cocktails I can make
 2.	As a	User	I want to	be able to find non-alcoholic drinks	so that	I can find non-alcoholic recipes
