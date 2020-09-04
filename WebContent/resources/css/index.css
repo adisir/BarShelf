@@ -1,0 +1,87 @@
+.landing-container {
+  width: 100vw;
+  min-height: 100vh;
+  background-image: url(../img/back.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.08rem;
+}
+.landing-container .form-wrapper {
+  width: 46rem;
+  max-width: 90vw;
+  min-height: 27rem;
+  border-radius: 1.2rem;
+  background: #fdfdfe;
+  box-shadow: 0 0 2rem #ff8080;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  padding: 4rem 2rem 0rem 2rem;
+  line-height:1.5;
+}
+
+.landing-container .form-wrapper .form-box {
+  position: relative;
+  width: 34rem;
+  max-width: 100%;
+}
+.landing-container .form-wrapper h1 {
+  margin-bottom: 2.5rem;
+  text-align: center;
+}
+.landing-container .input-container {
+  margin-top: 1rem;
+  display: flex;
+  flex: 1 1 0%;
+  height: 100%;
+  position: relative;
+}
+.landing-container p{
+  font-size: 1.12rem;
+}
+.landing-container .input-container input {
+  overflow: visible;
+  width: 100%;
+  height: calc(1.5em + 1rem + 2px);
+  padding: 0.375rem 0.75rem;
+  color: #2b2d42;
+  border-radius: 0.35rem;
+}
+
+.landing-container .cta-container {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.landing-container .cta-container button {
+  background: #ff8080;
+  border: none;
+  color: #fff;
+  padding: 0.65rem 3.6rem;
+  font-weight: 600;
+  font-size: 1.2rem;
+  border-radius: 25px;
+  outline:none;
+}
+
+@media (max-width: 575.98px) {
+  .landing-page-container .input-wrapper {
+    padding: 2rem;
+  }
+  .landing-page-container {
+    background-size: auto 120%;
+    background-position: 5%;
+  }
+
+  .landing-container .cta-container {
+    flex-flow: column;
+  }
+  .landing-container button {
+    margin-top: 1rem;
+  }
+}
