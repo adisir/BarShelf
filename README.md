@@ -1,5 +1,5 @@
 # BarShelf
-##User Stories
+## User Stories
 As a	User	I want to	search for an ingredient	so that	I can find the cocktails I can make
 As a	User	I want to	be able to find non-alcoholic drinks	so that	I can find non-alcoholic recipes
 As a	User	I want to	be able to find alcoholic drinks	so that	I can find alcoholic recipes
@@ -20,7 +20,8 @@ As a	User	I want to	see detailed ingredients with measures	so that	I know how mu
 As a	User	I want to	have a virtual barshelf	so that	so I can quickly see which ingredients I have/want
 As a	User	I want to	be able to quickly see what cocktail the ingredient makes	so that	so that I know what cocktails I can make with my virtual barshelf
 As a	User	I want to	delete a ingredient	so that	I can remove clutter from my barshelf
-##Technical Challenges 
+
+## Technical Challenges 
 
 Problem |	Solution
 --------|----------
