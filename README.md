@@ -81,9 +81,25 @@ Can't retrieve session attribute | from mav	Use modelmap instead of model and vi
 - Can add or delete any ingredient
 - Includes image of ingredient
 
+### Login Page 
+![alt text](https://i.imgur.com/CDvUyzg.png)
+
+- Allows input of email and password
+- Submit starts user session and redirects to your barshelf
+- Checks if user exists and valid email
+
+### Registration Page
+![alt text](https://i.imgur.com/m5zdEXc.png)
+
+- Allows input of name, email and password
+- Submit starts user session and redirects back to index
+- Checks if user exists and valid email
+
+
 ### Responsive NavBar <br/>
 ![alt text](https://i.imgur.com/vWRMnmG.png)
 <br/>
 - Collapses into hamburger
 - Expands on click 
+
 
