@@ -2,7 +2,7 @@
 - Allows user to : 
   - have virtual barshelf 
   - Find cocktails 
-- See detailed recipes
+  - See detailed recipes
 - Fully responsive for mobile, tablet and computer.
 - Utilizes Spring Framework and Java backend 
 - With a clean frontend 
