@@ -42,3 +42,7 @@ How to use repositories |	Missing one class appcontext
 How to use buttons to add items to a list |	Ised ajax to send a post request onclick()
 How to send info with anchor tag |	Sent info along with the link 
 Can't retrieve session attribute | from mav	Use modelmap instead of model and view
+
+## Functionality 
+
+
