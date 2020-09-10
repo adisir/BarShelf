@@ -45,10 +45,19 @@ Can't retrieve session attribute | from mav	Use modelmap instead of model and vi
 
 ## Functionality 
 
-Landing Page
+Landing/Search Page
 
 ![alt text](https://i.imgur.com/2hIAa9M.png)
 
-Search/Home Page
+Results/Home Page
 
+![alt text](https://i.imgur.com/EaGjl7q.png)
 
+Cocktail Display Page
+![alt text](https://i.imgur.com/257qELJ.png)
+
+My BarShelf
+![alt text](https://i.imgur.com/kmp07X0.png)
+
+Responsive NavBar
+![alt text](https://i.imgur.com/vWRMnmG.png)
