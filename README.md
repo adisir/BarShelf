@@ -43,21 +43,47 @@ How to use buttons to add items to a list |	Ised ajax to send a post request onc
 How to send info with anchor tag |	Sent info along with the link 
 Can't retrieve session attribute | from mav	Use modelmap instead of model and view
 
-## Functionality 
+## Features 
 
-### Landing/Search Page
+### Landing Page
 
 ![alt text](https://i.imgur.com/2hIAa9M.png)
+<br/>
+- Landing page for barshelf
+- Has search box
+- Has non-alcoholic filter
+- Initially finds cocktails for user
 
-### Results/Home Page
 
+### Home Page
 ![alt text](https://i.imgur.com/EaGjl7q.png)
+<br/>
+- Display cocktails user can make
+- Stores ingredient in session to revisit 
+- Allows to open more detailed view of cocktail
+
 
 ### Cocktail Display Page
 ![alt text](https://i.imgur.com/257qELJ.png)
+<br/>
+- Display additional information like:
+  - Alcoholic or not
+  - Instructions on how to make
+  - A bigger image to see cocktail more clearly
+  - Ingredients with measures 
+- Adds buttons to add ingredient to your barshelf
 
 ### My BarShelf
 ![alt text](https://i.imgur.com/kmp07X0.png)
+<br/>
+- Once logged in, the user can maintain their barshelf. 
+- User has quick access to possible cocktails
+- Can add or delete any ingredient
+- Includes image of ingredient
 
 ### Responsive NavBar <br/>
 ![alt text](https://i.imgur.com/vWRMnmG.png)
+<br/>
+- Collapses into hamburger
+- Expands on click 
+
