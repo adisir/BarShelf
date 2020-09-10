@@ -45,4 +45,10 @@ Can't retrieve session attribute | from mav	Use modelmap instead of model and vi
 
 ## Functionality 
 
+Landing Page
+
+![alt text](https://imgur.com/2hIAa9M)
+
+Search/Home Page
+
 
