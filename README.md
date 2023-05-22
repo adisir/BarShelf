@@ -1,4 +1,4 @@
-# This was the first version of barshelf I made when I first started learning. I have recently updated this code in a seperate repo. 
+ This was the first version of barshelf I made when I first started learning. I have recently updated this code in a seperate repo. 
 # BarShelf
 - Allows user to : 
   - have virtual barshelf 
